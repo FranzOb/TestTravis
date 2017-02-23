@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "file-system": "https://github.com/FranzOb/file-system.git",
+    "file-system": "^2.2.2",
     "lint": "^1.1.2"
   },
   "devDependencies": {},
