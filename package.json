@@ -1,0 +1,23 @@
+{
+  "name": "testtravis",
+  "version": "1.0.0",
+  "description": "TestTravis Build",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "file-system": "https://github.com/FranzOb/file-system.git",
+    "lint": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gihtub.com-FranzOb:FranzOb/TestTravis.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
